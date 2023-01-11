@@ -5,20 +5,24 @@
 
 - 🌱 I’m currently learning **IoT, AI**
 
-- 📝 I regularly write articles on software product development [https://asimshakourthoughts.wordpress.com/mentions/asimshakour/](https://asimshakourthoughts.wordpress.com/mentions/asimshakour/)
+- 📝 I regularly write articles on software product development [Blog](https://asimshakourthoughts.wordpress.com/mentions/asimshakour/)
 
 - 💬 Ask me about **react, angularjs, c#, .net**
 
 - 📫 How to reach me **shakourasim@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1N9SHvIZDSxzMZP-6jSjZ1ztW1IF-NLWq/edit?usp=sharing&ouid=110776397714074846665&rtpof=true&sd=true](https://docs.google.com/document/d/1N9SHvIZDSxzMZP-6jSjZ1ztW1IF-NLWq/edit?usp=sharing&ouid=110776397714074846665&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1N9SHvIZDSxzMZP-6jSjZ1ztW1IF-NLWq/edit?usp=sharing&ouid=110776397714074846665&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I can talk hours on product management and politics. I know how to fly a plane and a helicopter. I almost became a pro tennis player. I can make pretty good Biryani.**
+- ⚡ Fun fact
+<br> -- I can talk hours on product management and politics
+<br> -- I know how to fly a plane and a helicopter
+<br> -- I almost became a pro tennis player
+<br> -- I can make pretty good Biryani
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asimshakour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asimshakour" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/11424957/asim-shakour]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asim-shakour" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11424957/asim-shakour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asim-shakour" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
